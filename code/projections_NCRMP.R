@@ -9,7 +9,7 @@ library(ggpmisc)
 library(wesanderson)
 library(seacarb)
 #import latest carbonate budget data for each regions 
-CR_2022 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/CHEECA_2022.csv")
+CR_2022 <- read.csv("data/CHEECA_2022.csv")
 CR_2022<-ddply(CR_2022,.(Taxon, Transect,Code,kg_m2_yr,Rugosity,Planar,Urchin, Micro,PF,genus,morphology,class), summarize,IniCover=sum(value, na.rm=T))
 CR_2022$Site<-c('Cheeca_Rocks')
 CR_2022$Year<-c('2022')
@@ -28,7 +28,7 @@ mCR$Time[mCR$Time=="Year"]<-"2022"
 omCR<- mCR[order(mCR$Taxon,mCR$Transect),]
 
 #------------------
-DRTO_2021 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/DRTO_2021.csv")
+DRTO_2021 <- read.csv("data/DRTO_2021.csv")
 
 DRTO_2021<-ddply(DRTO_2021,.(Taxon, Transect,Code,kg_m2_yr,Planar,Rugosity,Urchin, Micro,PF,genus,morphology,class), summarize,IniCover=sum(value, na.rm=T))
 DRTO_2021$Site<-c('Dry_tortugas')
@@ -48,7 +48,7 @@ mDRTO$Time[mDRTO$Time=="Year"]<-"2021"
 omDRTO<- mDRTO[order(mDRTO$Transect,mDRTO$Taxon),]
 
 #------------------
-FGB_2022 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/FGB_2022.csv")
+FGB_2022 <- read.csv("data/FGB_2022.csv")
 
 FGB_2022<-ddply(FGB_2022,.(Taxon, Transect,Code,kg_m2_yr,Planar,Rugosity,Urchin, Micro,PF,genus,morphology,class), summarize,IniCover=sum(value, na.rm=T))
 FGB_2022$Site<-c('Flower_Banks')
@@ -69,7 +69,7 @@ omFGB<- mFGB[order(mFGB$Transect,mFGB$Taxon),]
 
 
 #------------------
-PR_2023 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/PR_2023.csv")
+PR_2023 <- read.csv("data/PR_2023.csv")
 
 PR_2023<-ddply(PR_2023,.(Taxon, Transect,Code,kg_m2_yr,Planar,Rugosity,Urchin, Micro,PF,genus,morphology,class), summarize,IniCover=sum(value, na.rm=T))
 PR_2023$Site<-c('Puerto_Rico')
@@ -89,7 +89,7 @@ mPR$Time[mPR$Time=="Year"]<-"2023"
 omPR<- mPR[order(mPR$Transect,mPR$Taxon),]
 
 #------------------
-STT_2017 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/STT_2017.csv")
+STT_2017 <- read.csv("data/STT_2017.csv")
 
 STT_2017<-ddply(STT_2017,.(Taxon, Transect,Code,kg_m2_yr,Planar,Rugosity,Urchin, Micro,PF,genus,morphology,class), summarize,IniCover=sum(value, na.rm=T))
 STT_2017$Site<-c('St_Thomas')
@@ -108,7 +108,7 @@ mSTT$Time<-as.character(mSTT$Time)
 mSTT$Time[mSTT$Time=="Year"]<-"2017"
 omSTT<- mSTT[order(mSTT$Transect,mSTT$Taxon),]
 #------------------
-STX_2022 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/STX_2022.csv")
+STX_2022 <- read.csv("data/STX_2022.csv")
 STX_2022<-ddply(STX_2022,.(Taxon, Transect,Code,kg_m2_yr,Planar,Rugosity,Urchin, Micro,PF,genus,morphology,class), summarize,IniCover=sum(value, na.rm=T))
 STX_2022$Site<-c('St_Croix')
 STX_2022$Year<-c('2022')
@@ -126,13 +126,13 @@ mSTX$Time<-as.character(mSTX$Time)
 mSTX$Time[mSTX$Time=="Year"]<-"2022"
 omSTX<- mSTX[order(mSTX$Transect,mSTX$Taxon),]
 
-#attach data together
+#bind data together
 CB_data<-rbind(omCR,omDRTO,omFGB,omPR,omSTT,omSTX)
 #Remove lines where value of cover is 0
 CB_data<-CB_data[CB_data$IniCover!=0,]
 
 #get climate projections for both sites
-all_carbonate <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/data_7_sites_2023/all_carbonate.csv")
+all_carbonate <- read.csv("data/all_carbonate.csv")
 names(all_carbonate)[names(all_carbonate) == 'Year'] <- 'Time'
 
 
@@ -140,14 +140,14 @@ names(all_carbonate)[names(all_carbonate) == 'Year'] <- 'Time'
 FF<-merge(all_carbonate,CB_data,by=c('Time','Site'))
 ordy <- FF[order(FF$Scenario,FF$Site,FF$Taxon,FF$Transect),]
 
-#Check by plot
-ggplot(ordy,aes(Time,SST))+
-  geom_point()+
-  facet_grid(Scenario~Site)
+#Check SST projections 
+# ggplot(ordy,aes(Time,SST))+
+#   geom_point()+
+#   facet_grid(Scenario~Site)
 
-##loop 21 to add OA and Temp effect to calcification/bioerosion rates  
-for (i in seq(from=1,to=nrow(ordy),by=1)) { ##keep data as it is for 2012 to 2019
-  if ((ordy$Time[i] <= 2023) && (ordy$class[i] == "HC")) {    
+##loop to add OA and Temp effect to calcification/bioerosion rates  (rates from Webb et al., 2023)
+for (i in seq(from=1,to=nrow(ordy),by=1)) { 
+  if ((ordy$Time[i] <= 2023) && (ordy$class[i] == "HC")) {    #rates pre_2023 stays as is
     ordy$rates[i]<- ordy$kg_m2_yr[i] 
     
   }
@@ -194,7 +194,7 @@ for (i in seq(from=1,to=nrow(ordy),by=1)) { ##keep data as it is for 2012 to 201
     
   }}
 
-##add OA and Temp effect to CCA
+##add OA and Temp effect to CCA calcification rates
 for (i in seq(from=1,to=nrow(ordy),by=1)) { ##keep data as it is for 2012 to 2019
   if ((ordy$Time[i] <= 2023) && (ordy$Code[i]== "CCA"))  {    
     ordy$rates[i]<- ordy$kg_m2_yr[i] 
@@ -211,7 +211,7 @@ for (i in seq(from=1,to=nrow(ordy),by=1)) { ##keep data as it is for 2012 to 201
   }}
 
 
-#sand dissolution rates
+#OA effect on sand dissolution rates
 for (i in seq(from=1,to=nrow(ordy),by=1)) { ##keep data as it is for 2012 to 2019
   if (ordy$class[i]== "S")  {    
     ordy$rates[i]<- -1.09+0.376*ordy$OmAr[i] 
@@ -228,7 +228,7 @@ ordy$G_R<- ordy$Planar_G_R*ordy$Rugosity
 dff<-ordy
 
 #-----------Sponge bioerosion ----------
-SP_2022 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/SP_2022.csv")
+SP_2022 <- read.csv("data/SP_2022.csv")
 
 
 #add empty cells for years 2023 to 2100
@@ -244,7 +244,7 @@ m2022$Time<-as.character(m2022$Time)
 m2022$Time[m2022$Time=="year"]<-"2022"
 om2022<- m2022[order(m2022$Transect,m2022$Taxon),]
 
-SP_2021 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/SP_2021.csv")
+SP_2021 <- read.csv("data/SP_2021.csv")
 
 #add empty cells for years 2022 to 2100
 years<-data.frame(matrix(ncol = 79, nrow = 14))
@@ -259,7 +259,7 @@ m2021$Time<-as.character(m2021$Time)
 m2021$Time[m2021$Time=="year"]<-"2021"
 om2021<- m2021[order(m2021$Transect,m2021$Taxon),]
 
-SP_2017 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/SP_2017.csv")
+SP_2017 <- read.csv("data/SP_2017.csv")
 
 #add empty cells for years 2022 to 2100
 years<-data.frame(matrix(ncol = 83, nrow = 3))
@@ -274,7 +274,7 @@ m2017$Time<-as.character(m2017$Time)
 m2017$Time[m2017$Time=="year"]<-"2017"
 om2017<- m2017[order(m2017$Transect,m2017$Taxon),]
 
-SP_2023 <- read.csv("C:/Users/aew234/Dropbox/MIAMI/data/budgets/files_for_projections/SP_2023.csv")
+SP_2023 <- read.csv("data/SP_2023.csv")
 
 #add empty cells for years 2022 to 2100
 years<-data.frame(matrix(ncol = 77, nrow = 5))
@@ -289,17 +289,14 @@ m2023$Time<-as.character(m2023$Time)
 m2023$Time[m2023$Time=="year"]<-"2023"
 om2023<- m2023[order(m2023$Transect,m2023$Taxon),]
 
-
+#bind all sponge data
 sponge<-rbind(om2017,om2021,om2022,om2023)
 
 #merge climate and budget data
 SP<-merge(all_carbonate,sponge,by=c('Time','Site'))
 SP <- SP[order(SP$Scenario,SP$Site,SP$Taxon,SP$Transect),]
 
-#Check by plot
-# ggplot(SP,aes(Time,rates))+
-#  geom_point()+
-#  facet_grid(Scenario~Site)
+
 ##loop 5 to add OA effect to bioeroding sponges
 for (i in seq(from=1,to=nrow(SP),by=1)) { ##keep data as it is for 2012 to 2019
   if ((SP$Time[i] <= 2023))  {    
@@ -315,6 +312,11 @@ dSP<-ddply(SP,.(Time,Transect,Scenario,Site),summarize,Macro=sum(erosion,na.rm=T
 ggplot(dSP,aes(Time,Macro))+
   geom_point()+
   facet_grid(Scenario~Site)
+
+# #Check by plot
+# ggplot(SP,aes(Time,rates))+
+#  geom_point()+
+#  facet_grid(Scenario~Site)
 
 mff<-merge(dff,dSP,by=c("Time","Transect","Site","Scenario"),all=TRUE)
 mff <- mff[order(mff$Scenario,mff$Site,mff$Taxon,mff$Transect),]
