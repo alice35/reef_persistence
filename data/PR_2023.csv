@@ -1,0 +1,170 @@
+"Taxon","value","Site","Rugosity","Transect","Planar","Urchin","Micro","PF","Depth","year","Code","genus","morphology","class","kg_m2_yr"
+"Agaricia lamarcki",13.43283582,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"AGL","Agaricia","plating","HC",4.75803
+"Agaricia lamarcki",13.43283582,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"AGL","Agaricia","plating","HC",4.75803
+"Agaricia lamarcki",26.86567164,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"AGL","Agaricia","plating","HC",4.75803
+"Agaricia lamarcki",2.985074627,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"AGL","Agaricia","plating","HC",4.75803
+"Agaricia lamarcki",5.970149254,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"AGL","Agaricia","plating","HC",4.75803
+"Colpophyllia natans",83.58208955,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"CON","Colpophyllia","massive","HC",5.88033
+"Colpophyllia natans",38.80597015,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"CON","Colpophyllia","massive","HC",5.88033
+"Colpophyllia natans",8.955223881,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"CON","Colpophyllia","massive","HC",5.88033
+"Crustose coralline algae",8.955223881,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",8.955223881,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2.985074627,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4.47761194,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",17.91044776,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",16.41791045,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",14.92537313,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",7.462686567,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2.985074627,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",10.44776119,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",8.955223881,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",13.43283582,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"CCA","CCA","CCA","SCP",0.1808
+"Macroalgae",2.985074627,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"MAC","Macroalgae",NA,"MT",0
+"Millepora alcicornis",7.462686567,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"MIA","Millepora","branching","HC",28.1026
+"Millepora alcicornis",1.492537313,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"MIA","Millepora","branching","HC",28.1026
+"Millepora alcicornis",7.462686567,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"MIA","Millepora","branching","HC",28.1026
+"Millepora alcicornis",5.970149254,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"MIA","Millepora","branching","HC",28.1026
+"Montastraea cavernosa",29.85074627,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"MOC","Montastraea","massive","HC",9.0681
+"Montastraea cavernosa",14.92537313,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"MOC","Montastraea","massive","HC",9.0681
+"Montastraea cavernosa",7.462686567,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"MOC","Montastraea","massive","HC",9.0681
+"Montastraea cavernosa",28.35820896,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"MOC","Montastraea","massive","HC",9.0681
+"Montastraea cavernosa",23.88059701,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"MOC","Montastraea","massive","HC",9.0681
+"Montastraea cavernosa",11.94029851,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"MOC","Montastraea","massive","HC",9.0681
+"Montastraea cavernosa",4.47761194,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"MOC","Montastraea","massive","HC",9.0681
+"Orbicella faveolata",7.462686567,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",26.86567164,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",14.92537313,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",8.955223881,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",17.91044776,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",31.34328358,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",38.80597015,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",10.44776119,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",50.74626866,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",11.94029851,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",8.955223881,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"ORF","Orbicella","massive","HC",12.03188
+"Porites astreoides",11.94029851,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",19.40298507,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",7.462686567,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",25.37313433,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",11.94029851,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",4.47761194,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",11.94029851,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",4.47761194,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",13.43283582,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",13.43283582,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",5.970149254,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",11.94029851,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"POA","Porites","submassive","HC",6.3221
+"Porites porites",5.970149254,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"POP","Porites","branching","HC",42.48
+"Porites porites",2.985074627,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"POP","Porites","branching","HC",42.48
+"Rubble",49.25373134,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",41.79104478,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",8.955223881,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",25.37313433,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",23.88059701,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",52.23880597,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",46.26865672,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",43.28358209,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",79.10447761,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Rubble",19.40298507,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"RB","Rubble",NA,"RRS",0
+"Sand",8.955223881,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",86.56716418,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",11.94029851,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",22.3880597,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",28.35820896,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",17.91044776,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",53.73134328,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",65.67164179,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",26.86567164,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",71.64179104,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",61.19402985,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",88.05970149,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",73.13432836,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",14.92537313,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",4.47761194,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",26.86567164,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",23.88059701,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",47.76119403,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",61.19402985,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",77.6119403,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",100,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",47.76119403,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",76.11940299,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",11.94029851,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",32.8358209,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",19.40298507,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",50.74626866,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",35.82089552,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",100,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",77.6119403,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",55.2238806,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",10.44776119,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",14.92537313,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",79.10447761,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",97.01492537,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",95.52238806,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",25.37313433,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Sand",73.13432836,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SD","Sand",NA,"S",0
+"Siderastrea siderea",14.92537313,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",13.43283582,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",4.47761194,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",4.47761194,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",17.91044776,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",1.492537313,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",2.985074627,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",5.970149254,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SIS","Siderastrea","massive","HC",8.528
+"Sponge",4.47761194,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",4.47761194,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",20.89552239,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",4.47761194,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",7.462686567,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",11.94029851,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",11.94029851,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",7.462686567,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",14.92537313,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",22.3880597,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",1.492537313,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",5.970149254,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",5.970149254,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",19.40298507,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",5.970149254,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",5.970149254,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",5.970149254,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.253596729,3,8.87,0.036,0.192,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",4.47761194,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",14.92537313,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",11.94029851,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",4.47761194,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",11.94029851,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.298976243,6,9.87,0.036,0.181,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",8.955223881,"La Parguera",1.26790291,5,9.9,0.00311,0.098,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",2.985074627,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",22.3880597,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",17.91044776,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Sponge",4.47761194,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"SP","Sponge",NA,"OTH",0
+"Stephanocoenia intersepta",4.47761194,"La Parguera",1.405484337,2,10.63,0,0.187,0.037,"shallow",2023,"STI","Stephanocoenia","submassive","HC",8.74016
+"Stephanocoenia intersepta",5.970149254,"La Parguera",1.378438387,4,9.68,0,0.182,0.037,"shallow",2023,"STI","Stephanocoenia","submassive","HC",8.74016
+"Stephanocoenia intersepta",5.970149254,"La Parguera",1.350249744,1,10.07,0,0.11,0.037,"shallow",2023,"STI","Stephanocoenia","submassive","HC",8.74016

@@ -1,0 +1,306 @@
+"Code","value","Planar","Transect","Rugosity","Urchin","Micro","PF","Depth","year","Site","Taxon","genus","morphology","class","kg_m2_yr"
+"AGA",1.492537313,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",4.47761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",7.462686567,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",7.462686567,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",5.970149254,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",11.94029851,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",5.970149254,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",5.970149254,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",4.47761194,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"AGA",7.462686567,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Agaricia agaricites","Agaricia","encrusting","HC",4.75803
+"CCA",7.462686567,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",7.462686567,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",2.985074627,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",29.85074627,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",55.2238806,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",53.73134328,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",67.1641791,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",8.955223881,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",4.47761194,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",23.88059701,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",43.28358209,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",8.955223881,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",77.6119403,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",40.29850746,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",4.47761194,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",7.462686567,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",5.970149254,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",71.64179104,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",8.955223881,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",23.88059701,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",8.955223881,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",20.89552239,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",20.89552239,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",25.37313433,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",5.970149254,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",61.19402985,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",32.8358209,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",16.41791045,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",4.47761194,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",16.41791045,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",95.52238806,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",80.59701493,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",20.89552239,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",26.86567164,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",2.985074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",49.25373134,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",2.985074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",1.492537313,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",7.462686567,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",5.970149254,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",17.91044776,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",17.91044776,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",22.3880597,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",4.47761194,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",34.32835821,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",8.955223881,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CCA",22.3880597,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Crustose coralline algae","CCA","CCA","SCP",0.1808
+"CON",58.20895522,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"CON",14.92537313,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"CON",37.31343284,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"CON",28.35820896,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"CON",89.55223881,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"CON",34.32835821,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"CON",85.07462687,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"CON",19.40298507,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"CON",37.31343284,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Colpophyllia natans","Colpophyllia","massive","HC",5.88033
+"DC",55.2238806,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",68.65671642,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",79.10447761,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",44.7761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",10.44776119,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",62.68656716,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",10.44776119,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",8.955223881,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",8.955223881,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",4.47761194,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",10.44776119,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",22.3880597,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",4.47761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",1.492537313,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",10.44776119,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",95.52238806,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",5.970149254,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",14.92537313,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",56.71641791,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",82.08955224,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",5.970149254,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",59.70149254,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",28.35820896,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",100,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",2.985074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",80.59701493,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",76.11940299,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",46.26865672,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",29.85074627,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",22.3880597,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",32.8358209,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",14.92537313,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",44.7761194,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",43.28358209,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",26.86567164,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",91.04477612,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",19.40298507,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"DC",29.85074627,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Dead Coral","Dead",NA,"BS",0
+"MAC",5.970149254,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",7.462686567,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",4.47761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",22.3880597,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",65.67164179,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",4.47761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",8.955223881,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",5.970149254,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",11.94029851,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",14.92537313,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",19.40298507,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",17.91044776,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",4.47761194,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",19.40298507,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",2.985074627,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",14.92537313,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",4.47761194,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",17.91044776,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",20.89552239,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",8.955223881,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",4.47761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",8.955223881,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",13.43283582,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",1.492537313,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",62.68656716,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",11.94029851,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",8.955223881,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",37.31343284,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",8.955223881,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",10.44776119,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",10.44776119,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",7.462686567,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",7.462686567,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MAC",5.970149254,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Macroalgae","Macroalgae",NA,"MT",0
+"MDD",11.94029851,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Madracis decactis","Madracis","encrusting","HC",34.362
+"MDD",17.91044776,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Madracis decactis","Madracis","encrusting","HC",34.362
+"MOC",19.40298507,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",11.94029851,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",34.32835821,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",138.8059701,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",26.86567164,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",23.88059701,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",4.47761194,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",34.32835821,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",13.43283582,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",20.89552239,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",23.88059701,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",22.3880597,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",10.44776119,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",16.41791045,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",94.02985075,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"MOC",17.91044776,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Montastraea cavernosa","Montastraea","massive","HC",9.0681
+"ORF",59.70149254,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Orbicella faveolata","Orbicella","massive","HC",12.03188
+"ORF",7.462686567,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella faveolata","Orbicella","massive","HC",12.03188
+"ORF",20.89552239,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella faveolata","Orbicella","massive","HC",12.03188
+"ORF",1.492537313,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella faveolata","Orbicella","massive","HC",12.03188
+"ORF",116.4179104,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella faveolata","Orbicella","massive","HC",12.03188
+"ORFR",35.82089552,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",141.7910448,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",56.71641791,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",22.3880597,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",73.13432836,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",20.89552239,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",35.82089552,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",14.92537313,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",20.89552239,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",11.94029851,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",19.40298507,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",58.20895522,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",200,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",79.10447761,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",7.462686567,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",4.47761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",61.19402985,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",43.28358209,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",68.65671642,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",83.58208955,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",98.50746269,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",8.955223881,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",38.80597015,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",29.85074627,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",167.1641791,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",5.970149254,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",55.2238806,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",20.89552239,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",105.9701493,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",100,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",4.47761194,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",86.56716418,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",138.8059701,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",125.3731343,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",110.4477612,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",11.94029851,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",37.31343284,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"ORFR",46.26865672,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Orbicella franksi","Orbicella","massive","HC",9.0636
+"POA",2.985074627,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",34.32835821,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",22.3880597,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",13.43283582,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",28.35820896,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",4.47761194,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",2.985074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",20.89552239,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",38.80597015,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",11.94029851,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",4.47761194,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",10.44776119,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",59.70149254,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",20.89552239,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",23.88059701,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",7.462686567,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",40.29850746,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",31.34328358,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",29.85074627,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",5.970149254,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",5.970149254,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",20.89552239,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",7.462686567,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",19.40298507,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",14.92537313,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",14.92537313,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",8.955223881,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",2.985074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",22.3880597,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",35.82089552,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",14.92537313,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",8.955223881,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",20.89552239,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",7.462686567,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POA",37.31343284,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Porites astreoides","Porites","submassive","HC",6.3221
+"POP",7.462686567,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Porites porites","Porites","branching","HC",42.48
+"PSS",4.47761194,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",4.47761194,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",61.19402985,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",41.79104478,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",61.19402985,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",25.37313433,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",132.8358209,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",10.44776119,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",4.47761194,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",44.7761194,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",29.85074627,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",37.31343284,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",14.92537313,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",138.8059701,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",8.955223881,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"PSS",38.80597015,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Pseudodiploria strigosa","Pseudodiploria","massive","HC",5.34
+"SD",1e-05,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Sand","Sand",NA,"S",0
+"SD",1e-05,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Sand","Sand",NA,"S",0
+"SD",1e-05,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Sand","Sand",NA,"S",0
+"SD",1e-05,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Sand","Sand",NA,"S",0
+"SD",14.92537313,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Sand","Sand",NA,"S",0
+"SD",100,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Sand","Sand",NA,"S",0
+"SP",2.985074627,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"SP",5.970149254,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"SP",23.88059701,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"SP",16.41791045,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"SP",2.985074627,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"SP",2.985074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"SP",2.985074627,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"SP",4.47761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"SP",4.47761194,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Sponge","Sponge",NA,"OTH",0
+"STI",31.34328358,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Stephanocoenia intersepta","Stephanocoenia","submassive","HC",8.74016
+"STI",2.985074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Stephanocoenia intersepta","Stephanocoenia","submassive","HC",8.74016
+"TF",7.462686567,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",4.47761194,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",14.92537313,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",4.47761194,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",86.56716418,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",28.35820896,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",56.71641791,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",13.43283582,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",19.40298507,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",52.23880597,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",23.88059701,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",58.20895522,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",13.43283582,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",29.85074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",38.80597015,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",29.85074627,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",8.955223881,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",89.55223881,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",29.85074627,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",43.28358209,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",77.6119403,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",2.985074627,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",2.985074627,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",7.462686567,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",50.74626866,10.33,2,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",61.19402985,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",14.92537313,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",7.462686567,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",7.462686567,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",17.91044776,10.16,1,1.494005906,0,0.358561417,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",17.91044776,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",5.970149254,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",47.76119403,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",2.985074627,10.15,6,1.495477833,0.06088,0.35891468,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",2.985074627,9.72,5,1.561635802,0.0032,0.350101235,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",5.970149254,9.13,4,1.662552026,0.00044,0.399012486,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0
+"TF",22.3880597,9.76,3,1.469419167,0,0.349192943,3.012,"deep",2022,"FGB","Turf algae","Turf",NA,"TF",0

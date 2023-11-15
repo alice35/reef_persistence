@@ -1,0 +1,439 @@
+"Taxon","Transect","Site","Planar","Rugosity","Urchin","Micro","PF","Depth","year","value","Code","genus","morphology","class","kg_m2_yr"
+"Agaricia agaricites",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,4.47761194,"AGA","Agaricia","encrusting","HC",4.75803
+"Agaricia agaricites",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"AGA","Agaricia","encrusting","HC",4.75803
+"Agaricia agaricites",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,4.47761194,"AGA","Agaricia","encrusting","HC",4.75803
+"Agaricia agaricites",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,8.955223881,"AGA","Agaricia","encrusting","HC",4.75803
+"Colpophyllia natans",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,32.8358209,"CON","Colpophyllia","massive","HC",5.88033
+"Colpophyllia natans",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,11.94029851,"CON","Colpophyllia","massive","HC",5.88033
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,4.47761194,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,29.85074627,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,14.92537313,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,32.8358209,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,8.955223881,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,25.37313433,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,10.44776119,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,26.86567164,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,13.43283582,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,20.89552239,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,11.94029851,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,8.955223881,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,5.970149254,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,32.8358209,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,14.92537313,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,19.40298507,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,17.91044776,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,17.91044776,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,17.91044776,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,26.86567164,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,22.3880597,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,44.7761194,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,22.3880597,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,4.47761194,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,7.462686567,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,53.73134328,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,14.92537313,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,4.47761194,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,28.35820896,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,32.8358209,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,11.94029851,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,10.44776119,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,31.34328358,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,25.37313433,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,35.82089552,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,22.3880597,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,26.86567164,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,10.44776119,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,4.47761194,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,37.31343284,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,5.970149254,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,31.34328358,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,8.955223881,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,10.44776119,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,19.40298507,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,17.91044776,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,22.3880597,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,10.44776119,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,7.462686567,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,16.41791045,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,11.94029851,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,41.79104478,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,11.94029851,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,38.80597015,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,74.62686567,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,52.23880597,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,31.34328358,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,4.47761194,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,5.970149254,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,2.985074627,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,47.76119403,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,13.43283582,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,10.44776119,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,10.44776119,"CCA","CCA","CCA","SCP",0.1808
+"Crustose coralline algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,8.955223881,"CCA","CCA","CCA","SCP",0.1808
+"Cyanobacteria",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,1.492537313,"CY","Other",NA,"OTH",0
+"Cyanobacteria",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,5.970149254,"CY","Other",NA,"OTH",0
+"Cyanobacteria",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"CY","Other",NA,"OTH",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,32.8358209,"HA","Halimeda",NA,"SED",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,2.985074627,"HA","Halimeda",NA,"SED",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"HA","Halimeda",NA,"SED",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,4.47761194,"HA","Halimeda",NA,"SED",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,2.985074627,"HA","Halimeda",NA,"SED",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,28.35820896,"HA","Halimeda",NA,"SED",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,8.955223881,"HA","Halimeda",NA,"SED",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,8.955223881,"HA","Halimeda",NA,"SED",0
+"Halimeda",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"HA","Halimeda",NA,"SED",0
+"Halimeda",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"HA","Halimeda",NA,"SED",0
+"Halimeda",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,5.970149254,"HA","Halimeda",NA,"SED",0
+"Halimeda",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,5.970149254,"HA","Halimeda",NA,"SED",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,5.970149254,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,11.94029851,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,29.85074627,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,16.41791045,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,7.462686567,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,11.94029851,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,13.43283582,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,26.86567164,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,16.41791045,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,13.43283582,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,19.40298507,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,22.3880597,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,25.37313433,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,25.37313433,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,10.44776119,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,14.92537313,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,11.94029851,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,4.47761194,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,17.91044776,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,29.85074627,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,55.2238806,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,11.94029851,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,5.970149254,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,40.29850746,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,8.955223881,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,26.86567164,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,22.3880597,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,22.3880597,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,14.92537313,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,8.955223881,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,44.7761194,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,20.89552239,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,13.43283582,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,25.37313433,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,22.3880597,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,59.70149254,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,13.43283582,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,59.70149254,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,29.85074627,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,29.85074627,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,13.43283582,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,13.43283582,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,17.91044776,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,56.71641791,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,40.29850746,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,68.65671642,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,73.13432836,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,14.92537313,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,23.88059701,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,22.3880597,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,10.44776119,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,29.85074627,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,7.462686567,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,10.44776119,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,14.92537313,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,8.955223881,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,29.85074627,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,10.44776119,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,34.32835821,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,61.19402985,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,25.37313433,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,20.89552239,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,20.89552239,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,11.94029851,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,32.8358209,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,13.43283582,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,37.31343284,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,22.3880597,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,20.89552239,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,56.71641791,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,28.35820896,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,62.68656716,"MAC","Macroalgae",NA,"MT",0
+"Macroalgae with CCA below",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,40.29850746,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,32.8358209,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,37.31343284,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,2.985074627,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,23.88059701,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,32.8358209,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,16.41791045,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,14.92537313,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,67.1641791,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,11.94029851,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,59.70149254,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,50.74626866,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,11.94029851,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,4.47761194,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,46.26865672,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,4.47761194,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,5.970149254,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,8.955223881,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,11.94029851,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,46.26865672,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,41.79104478,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,13.43283582,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,26.86567164,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,29.85074627,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,8.955223881,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,19.40298507,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,17.91044776,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,88.05970149,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,70.14925373,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Macroalgae with CCA below",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,19.40298507,"MCCA","Macroalgae","CCA","SCP",0.1808
+"Meandrina meandrites",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,5.970149254,"MEM","Meandrina","massive","HC",2.185
+"Millepora alcicornis",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"MIA","Millepora","branching","HC",28.1026
+"Millepora alcicornis",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"MIA","Millepora","branching","HC",28.1026
+"Millepora alcicornis",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,1.492537313,"MIA","Millepora","branching","HC",28.1026
+"Millepora alcicornis",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,1.492537313,"MIA","Millepora","branching","HC",28.1026
+"Millepora alcicornis",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,1.492537313,"MIA","Millepora","branching","HC",28.1026
+"Millepora alcicornis",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,1.492537313,"MIA","Millepora","branching","HC",28.1026
+"Montastraea cavernosa",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,11.94029851,"MOC","Montastraea","massive","HC",9.0681
+"Montastraea cavernosa",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,37.31343284,"MOC","Montastraea","massive","HC",9.0681
+"Orbicella faveolata",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,40.29850746,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,19.40298507,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,44.7761194,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,17.91044776,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,11.94029851,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,28.35820896,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,55.2238806,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,20.89552239,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,8.955223881,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,19.40298507,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,10.44776119,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,25.37313433,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,14.92537313,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,13.43283582,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,4.47761194,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella faveolata",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,4.47761194,"ORF","Orbicella","massive","HC",12.03188
+"Orbicella franksi",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,5.970149254,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,11.94029851,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,13.43283582,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,29.85074627,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,16.41791045,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,11.94029851,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,25.37313433,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,8.955223881,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,5.970149254,"ORFR","Orbicella","massive","HC",9.0636
+"Orbicella franksi",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,100,"ORFR","Orbicella","massive","HC",9.0636
+"Peysonellid algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,4.47761194,"PEY","Peysonellid","CCA","SCP",0.1808
+"Peysonellid algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,2.985074627,"PEY","Peysonellid","CCA","SCP",0.1808
+"Peysonellid algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"PEY","Peysonellid","CCA","SCP",0.1808
+"Peysonellid algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,5.970149254,"PEY","Peysonellid","CCA","SCP",0.1808
+"Peysonellid algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,4.47761194,"PEY","Peysonellid","CCA","SCP",0.1808
+"Peysonellid algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,1.492537313,"PEY","Peysonellid","CCA","SCP",0.1808
+"Peysonellid algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"PEY","Peysonellid","CCA","SCP",0.1808
+"Porites astreoides",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,5.970149254,"POA","Porites","submassive","HC",6.3221
+"Porites astreoides",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,11.94029851,"POA","Porites","submassive","HC",6.3221
+"Porites divaricata",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,4.47761194,"POD","Porites","branching","HC",37.882125
+"Porites divaricata",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,28.35820896,"POD","Porites","branching","HC",37.882125
+"Rubble",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,5.970149254,"RB","Rubble",NA,"RRS",0
+"Rubble",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,14.92537313,"RB","Rubble",NA,"RRS",0
+"Sand",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,4.47761194,"SD","Sand",NA,"S",0
+"Sand",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,11.94029851,"SD","Sand",NA,"S",0
+"Sand",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,2.985074627,"SD","Sand",NA,"S",0
+"Sand",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"SD","Sand",NA,"S",0
+"Sand",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"SD","Sand",NA,"S",0
+"Sand",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,37.31343284,"SD","Sand",NA,"S",0
+"Sand",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,41.79104478,"SD","Sand",NA,"S",0
+"Sand",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,29.85074627,"SD","Sand",NA,"S",0
+"Sand",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,14.92537313,"SD","Sand",NA,"S",0
+"Sand",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,5.970149254,"SD","Sand",NA,"S",0
+"Sand",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,22.3880597,"SD","Sand",NA,"S",0
+"Sand",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"SD","Sand",NA,"S",0
+"Sand",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,11.94029851,"SD","Sand",NA,"S",0
+"Sand",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,14.92537313,"SD","Sand",NA,"S",0
+"Sand",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,44.7761194,"SD","Sand",NA,"S",0
+"Sand",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"SD","Sand",NA,"S",0
+"Sand",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,2.985074627,"SD","Sand",NA,"S",0
+"Sand",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,2.985074627,"SD","Sand",NA,"S",0
+"Sand",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,2.985074627,"SD","Sand",NA,"S",0
+"Sand",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,7.462686567,"SD","Sand",NA,"S",0
+"Sand",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,22.3880597,"SD","Sand",NA,"S",0
+"Sand",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,71.64179104,"SD","Sand",NA,"S",0
+"Sand",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,23.88059701,"SD","Sand",NA,"S",0
+"Sand",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,17.91044776,"SD","Sand",NA,"S",0
+"Siderastrea radians",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,7.462686567,"SIR","Siderastrea","encrusting","HC",8.528
+"Siderastrea siderea",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,28.35820896,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,4.47761194,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,29.85074627,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,22.3880597,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,2.985074627,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,7.462686567,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,13.43283582,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,20.89552239,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,7.462686567,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,41.79104478,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,5.970149254,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,14.92537313,"SIS","Siderastrea","massive","HC",8.528
+"Siderastrea siderea",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,49.25373134,"SIS","Siderastrea","massive","HC",8.528
+"Soft Coral",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,1.492537313,"SOC","Soft",NA,"OCT",0
+"Soft Coral",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,4.47761194,"SOC","Soft",NA,"OCT",0
+"Soft Coral",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,10.44776119,"SOC","Soft",NA,"OCT",0
+"Soft Coral",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,14.92537313,"SOC","Soft",NA,"OCT",0
+"Soft Coral",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,13.43283582,"SOC","Soft",NA,"OCT",0
+"Soft Coral",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,10.44776119,"SOC","Soft",NA,"OCT",0
+"Soft Coral",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"SOC","Soft",NA,"OCT",0
+"Soft Coral",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,10.44776119,"SOC","Soft",NA,"OCT",0
+"Soft Coral",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,13.43283582,"SOC","Soft",NA,"OCT",0
+"Soft Coral",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,5.970149254,"SOC","Soft",NA,"OCT",0
+"Soft Coral",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,22.3880597,"SOC","Soft",NA,"OCT",0
+"Soft Coral",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,1.492537313,"SOC","Soft",NA,"OCT",0
+"Soft Coral",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,4.47761194,"SOC","Soft",NA,"OCT",0
+"Soft Coral",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,4.47761194,"SOC","Soft",NA,"OCT",0
+"Soft Coral",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,7.462686567,"SOC","Soft",NA,"OCT",0
+"Soft Coral",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,1.492537313,"SOC","Soft",NA,"OCT",0
+"Soft Coral",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,1.492537313,"SOC","Soft",NA,"OCT",0
+"Soft Coral",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"SOC","Soft",NA,"OCT",0
+"Soft Coral",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"SOC","Soft",NA,"OCT",0
+"Soft Coral",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"SOC","Soft",NA,"OCT",0
+"Soft Coral",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,10.44776119,"SOC","Soft",NA,"OCT",0
+"Soft Coral",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,10.44776119,"SOC","Soft",NA,"OCT",0
+"Soft Coral",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,5.970149254,"SOC","Soft",NA,"OCT",0
+"Soft Coral",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,1.492537313,"SOC","Soft",NA,"OCT",0
+"Soft Coral",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,8.955223881,"SOC","Soft",NA,"OCT",0
+"Soft Coral",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,2.985074627,"SOC","Soft",NA,"OCT",0
+"Soft Coral",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,7.462686567,"SOC","Soft",NA,"OCT",0
+"Sponge",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,2.985074627,"SP","Sponge",NA,"OTH",0
+"Sponge",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,4.47761194,"SP","Sponge",NA,"OTH",0
+"Sponge",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,4.47761194,"SP","Sponge",NA,"OTH",0
+"Sponge",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,2.985074627,"SP","Sponge",NA,"OTH",0
+"Sponge",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,11.94029851,"SP","Sponge",NA,"OTH",0
+"Sponge",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,2.985074627,"SP","Sponge",NA,"OTH",0
+"Sponge",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,5.970149254,"SP","Sponge",NA,"OTH",0
+"Sponge",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,4.47761194,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,10.44776119,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,8.955223881,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,4.47761194,"SP","Sponge",NA,"OTH",0
+"Sponge",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,2.985074627,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,43.28358209,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,7.462686567,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,1.492537313,"SP","Sponge",NA,"OTH",0
+"Sponge",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"SP","Sponge",NA,"OTH",0
+"Sponge",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,10.44776119,"SP","Sponge",NA,"OTH",0
+"Sponge",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,13.43283582,"SP","Sponge",NA,"OTH",0
+"Sponge",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,7.462686567,"SP","Sponge",NA,"OTH",0
+"Sponge",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,4.47761194,"SP","Sponge",NA,"OTH",0
+"Sponge",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,1.492537313,"SP","Sponge",NA,"OTH",0
+"Sponge",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,1.492537313,"SP","Sponge",NA,"OTH",0
+"Sponge",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,17.91044776,"SP","Sponge",NA,"OTH",0
+"Sponge",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,7.462686567,"SP","Sponge",NA,"OTH",0
+"Sponge",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,4.47761194,"SP","Sponge",NA,"OTH",0
+"Sponge",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,5.970149254,"SP","Sponge",NA,"OTH",0
+"Sponge",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,1.492537313,"SP","Sponge",NA,"OTH",0
+"Stephanocoenia intersepta",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,5.970149254,"STI","Stephanocoenia","submassive","HC",8.74016
+"Stephanocoenia intersepta",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,1.492537313,"STI","Stephanocoenia","submassive","HC",8.74016
+"Stephanocoenia intersepta",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,2.985074627,"STI","Stephanocoenia","submassive","HC",8.74016
+"Stephanocoenia intersepta",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,5.970149254,"STI","Stephanocoenia","submassive","HC",8.74016
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,13.43283582,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,34.32835821,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,2.985074627,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,38.80597015,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,31.34328358,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,5.970149254,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,76.11940299,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,85.07462687,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,61.19402985,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,44.7761194,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,34.32835821,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,59.70149254,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,43.28358209,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,53.73134328,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,8.955223881,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,14.92537313,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,14.92537313,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,20.89552239,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,7.462686567,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,16.41791045,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,26.86567164,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,40.29850746,"TF","Turf",NA,"TF",0
+"Turf algae",1,"DRTO",8.63,1.82,0.01511,0.433,0.842,"deep",2021,46.26865672,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,37.31343284,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,79.10447761,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,40.29850746,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,47.76119403,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,28.35820896,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,17.91044776,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,16.41791045,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,25.37313433,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,62.68656716,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,14.92537313,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,59.70149254,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,34.32835821,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,50.74626866,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,34.32835821,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,2.985074627,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,52.23880597,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,14.92537313,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,26.86567164,"TF","Turf",NA,"TF",0
+"Turf algae",3,"DRTO",10,1.58,0,0.378,0.842,"deep",2021,11.94029851,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,28.35820896,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,52.23880597,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,43.28358209,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,44.7761194,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,22.3880597,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,23.88059701,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,49.25373134,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,34.32835821,"TF","Turf",NA,"TF",0
+"Turf algae",4,"DRTO",8.68,1.65,0,0.359,0.842,"deep",2021,25.37313433,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,64.17910448,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,80.59701493,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,53.73134328,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,65.67164179,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,43.28358209,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,59.70149254,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,65.67164179,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,50.74626866,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,16.41791045,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,34.32835821,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,10.44776119,"TF","Turf",NA,"TF",0
+"Turf algae",2,"DRTO",8.4,1.82,0.00311,0.423,0.842,"deep",2021,53.73134328,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,56.71641791,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,56.71641791,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,61.19402985,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,46.26865672,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,59.70149254,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,35.82089552,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,68.65671642,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,67.1641791,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,31.34328358,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,26.86567164,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,14.92537313,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,1.492537313,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,5.970149254,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,35.82089552,"TF","Turf",NA,"TF",0
+"Turf algae",6,"DRTO",8.73,1.74,0.01965,0.382,0.842,"deep",2021,1.492537313,"TF","Turf",NA,"TF",0
+"Turf algae",5,"DRTO",8.9,1.71,0.01511,0.386,0.842,"deep",2021,8.955223881,"TF","Turf",NA,"TF",0
