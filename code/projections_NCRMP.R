@@ -89,15 +89,15 @@ mPR$Time[mPR$Time=="Year"]<-"2023"
 omPR<- mPR[order(mPR$Transect,mPR$Taxon),]
 
 #------------------
-STT_2017 <- read.csv("data/STT_2017.csv")
+STT_2023<- read.csv("data/STT_2023.csv")
 
-STT_2017<-ddply(STT_2017,.(Taxon, Transect,Code,kg_m2_yr,Planar,Rugosity,Urchin, Micro,PF,genus,morphology,class), summarize,IniCover=sum(value, na.rm=T))
-STT_2017$Site<-c('St_Thomas')
-STT_2017$Year<-c('2017')
+STT_2023<-ddply(STT_2023,.(Taxon, Transect,Code,kg_m2_yr,Planar,Rugosity,Urchin, Micro,PF,genus,morphology,class), summarize,IniCover=sum(value, na.rm=T))
+STT_2023$Site<-c('St_Thomas')
+STT_2023$Year<-c('2023')
 
 #add empty cells for years 2023 to 2100
 years<-data.frame(matrix(ncol = 83, nrow = 103))
-colnames(years)<-c(2018:2100)
+colnames(years)<-c(2024:2100)
 
 STT2017<-cbind(STT_2017,years)
 mSTT<-melt(STT2017, id.vars=c(1:14))
@@ -422,12 +422,15 @@ G1$Site <- factor(G1$Site, levels = c("Flower_Banks","Dry_tortugas","Cheeca_Rock
                   labels = c("Flower G Banks","Dry Tortugas","Cheeca Rocks","La Pargera","St Croix","St Thomas"))
 ggplot(mean_G,aes(Time,mean_G,colour=Scenario))+
   geom_line()+
-  facet_grid(~Site)+
+  facet_wrap(~Site,ncol=3)+
   #geom_ribbon(aes(ymin=mean_G-sd_G, ymax=mean_G+sd_G,fill=Scenario),data=mean_G,alpha=0.1)+
   theme_bw()+
   scale_color_manual(values=c('blue','red'))+
   xlab("Year")+
-  ylab(expression(paste( " G [ kg m"^"-2"," yr"^"-1","]")))
+  ylab(expression(paste( " G [ kg m"^"-2"," yr"^"-1","]")))+ 
+  scale_x_continuous(breaks=seq(2020, 2100, 20))
+
+ggsave("figures/meanG_nobleaching.pdf",width=7,height=3)
 
 G1$Transect<-as.character(G1$Transect)
 
@@ -436,7 +439,11 @@ ggplot(G1,aes(Time,TG,colour=Transect))+
   facet_grid(Scenario~Site)+
   theme_bw()+
   xlab("Year")+
-  ylab(expression(paste( " G [ kg m"^"-2"," yr"^"-1","]")))
+  ylab(expression(paste( " G [ kg m"^"-2"," yr"^"-1","]")))+ 
+  scale_x_continuous(breaks=seq(2030, 2100, 30))
+
+ggsave("figures/ALLG_nobleaching.pdf",width=8,height=3)
+
 
 ggplot(G1,aes(Time,TG,spilt=Transect,colour=Scenario))+
   geom_line()+
