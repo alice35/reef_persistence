@@ -420,12 +420,12 @@ mean_G$Site <- factor(mean_G$Site, levels = c("Flower_Banks","Dry_tortugas","Che
 
 G1$Site <- factor(G1$Site, levels = c("Flower_Banks","Dry_tortugas","Cheeca_Rocks","Puerto_Rico","St_Croix","St_Thomas"),
                   labels = c("Flower G Banks","Dry Tortugas","Cheeca Rocks","La Pargera","St Croix","St Thomas"))
-ggplot(mean_G,aes(Time,mean_G,colour=Site))+
+ggplot(mean_G,aes(Time,mean_G,colour=Scenario))+
   geom_line()+
-  facet_grid(~Scenario)+
+  facet_grid(~Site)+
   #geom_ribbon(aes(ymin=mean_G-sd_G, ymax=mean_G+sd_G,fill=Scenario),data=mean_G,alpha=0.1)+
   theme_bw()+
-  #scale_color_manual(values=c('blue','red'))+
+  scale_color_manual(values=c('blue','red'))+
   xlab("Year")+
   ylab(expression(paste( " G [ kg m"^"-2"," yr"^"-1","]")))
 
